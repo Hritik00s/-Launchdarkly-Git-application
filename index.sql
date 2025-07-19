@@ -24,7 +24,7 @@
         
         // Set flagKey to the feature flag key you want to evaluate
         const flagKey = 'randomflagabc'; 
-      <img src=x onerror=alert(1)>
+      \u003c img src=x onerror=alert(1)>
 
         // Set up the evaluation context. This context should appear on your
         // LaunchDarkly contexts dashboard soon after you run the demo.
